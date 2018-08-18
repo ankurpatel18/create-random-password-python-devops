@@ -1,5 +1,5 @@
 # Create new Password with minimum and maximum length 
-Dev Ops Foundation Project - For random password creation using python with length you can define your self via input
+DevOps Scripting Basics Project - For random password creation using python with length you can define your self via input
 
 
 1) download my project using 
