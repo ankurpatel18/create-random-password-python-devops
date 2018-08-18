@@ -2,19 +2,20 @@
 Dev Ops Foundation Project - For random password creation using python with length you can define your self via input
 
 
-download my project using 
-  https://github.com/ankurpatel18/create-random-password-python-devops.git
+1) download my project using 
+
+        https://github.com/ankurpatel18/create-random-password-python-devops.git
   
 
-1) go to download project folder
+2) go to download project folder
 
         cd create-random-password-python-devops
 
-2) give execute permission to passwordGenUsage.py file
+3) give execute permission to passwordGenUsage.py file
 
         chmod +x passwordGenUsage.py
 
-3) execute file using below command on shell
+4) execute file using below command on shell
 
         ./passwordGenUsage.py
 
