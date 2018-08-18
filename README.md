@@ -4,7 +4,7 @@ Dev Ops Foundation Project - For random password creation using python with leng
 
 1) download my project using 
 
-        https://github.com/ankurpatel18/create-random-password-python-devops.git
+      `https://github.com/ankurpatel18/create-random-password-python-devops.git`
   
 
 2) go to download project folder
@@ -20,3 +20,6 @@ Dev Ops Foundation Project - For random password creation using python with leng
         ./passwordGenUsage.py
 
    It will give you new password.
+
+***
+> passwordGeneratorModule.py - is the mail file which has function which is creating password.
