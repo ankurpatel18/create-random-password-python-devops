@@ -22,4 +22,6 @@ Dev Ops Foundation Project - For random password creation using python with leng
    It will give you new password.
 
 ***
-> passwordGeneratorModule.py - is the mail file which has function which is creating password.
+
+
+#### passwordGeneratorModule.py - is the main file which has function which is creating password.
