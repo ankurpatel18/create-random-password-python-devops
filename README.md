@@ -1,3 +1,5 @@
+[![CodeFactor](https://www.codefactor.io/repository/github/ankurpatel18/create-random-password-python-devops/badge)](https://www.codefactor.io/repository/github/ankurpatel18/create-random-password-python-devops)
+
 # Create new Password with minimum and maximum length 
 DevOps Scripting Basics Project - For random password creation using python with length you can define your self via input
 
